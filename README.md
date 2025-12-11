@@ -18,7 +18,7 @@ Free SMS Verification Bot for Telegram. Receive OTP instantly.
 
 ## 🔗 Official Links
 - **Bot Link:** [https://t.me/Verify_TonSMSbot](https://t.me/Verify_TonSMSbot)
-- **Support Channel:** [Buraya Kanalının Linkini Koy]
+- **Support Channel:** [https://t.me/tonsms_help]
 
 ---
 Keywords: telegram sms bot, receive sms online, virtual number telegram, whatsapp fake number, tonsms, fragment numbers, telegram stars payment.
